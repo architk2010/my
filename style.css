@@ -1,0 +1,45 @@
+.Ball {
+    width: 600px;
+    border-radius: 80%;
+    margin-bottom: 40px;
+}
+
+body {
+    text-align: center;
+    padding-top: 100px;
+}
+
+#Jimmy {
+    padding: 40px;
+}
+
+p {
+    text-align: left;
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+#James {
+    background: linear-gradient(#06a120 0%, #47edc4 100%);
+}
+
+.style {
+    font-family: sans-serif;
+    padding: 5px;
+    float: left;
+    cursor: pointer;
+}
+
+.style:hover {
+    background-color: cyan;
+}
+
+.line {
+    height: 8px;
+    background-color: darkcyan;
+    width: 300px;
+    margin: 8px auto;
+}
